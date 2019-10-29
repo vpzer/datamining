@@ -1,0 +1,13 @@
+*.bin
+*.pkl
+*.vec
+Laboratorio_7_TextMining_Solucion.ipynb
+papers.csv
+*.mm
+*.index
+*.dict
+*.model
+*.npy
+*.id2word
+*.state
+/bib
